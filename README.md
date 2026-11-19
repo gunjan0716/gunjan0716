@@ -51,6 +51,14 @@
 Most of my professional and personal project code lives in **private repositories**.
 Happy to walk through architecture, features and demos. Just reach out on LinkedIn.
 
+### 🏅 Certifications & badges
+
+- **Android Basics with Compose: Introduction to programming in Kotlin**, Google for Developers (Nov 2026)
+- **Gemini Agent Ready (GEAR)**, Google for Developers (Nov 2026)
+- **Set up Android Studio**, Google for Developers (Nov 2026)
+
+<a href="https://g.dev/gunjangupta07"><img src="https://img.shields.io/badge/Google%20Developer%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile"/></a>
+
 ### 📊 Problem solving
 
 <p align="center"><img src="dsa_patterns.gif" alt="DSA patterns: Sliding Window, Two Pointers, BFS" width="420"/></p>
