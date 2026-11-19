@@ -5,7 +5,6 @@
   <a href="https://www.linkedin.com/in/gunjangupta-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/gunjan07133/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.geeksforgeeks.org/profile/gunjangup0kez"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-  <a href="Gunjan_Gupta_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
 </p>
 
 ---
@@ -16,8 +15,7 @@
 - 📱 I build and ship cross-platform mobile apps end to end, from requirements to Play Store / App Store release
 - 🌱 Currently upskilling in **Full Stack Development** with Bosscoder Academy
 - 🧠 Practising **Data Structures & Algorithms** daily on LeetCode and GeeksforGeeks
-- 🎯 Open to **Software Engineer / Flutter / Mobile / Frontend** roles at product-based companies
-- 📍 Jaipur, India · open to relocation & remote
+- 📍 Jaipur, India
 
 ### 🛠️ Tech stack
 
@@ -51,7 +49,7 @@
 ### 📂 Work
 
 Most of my professional and personal project code lives in **private repositories**.
-Happy to walk through architecture, features and demos in an interview. Just reach out on LinkedIn.
+Happy to walk through architecture, features and demos. Just reach out on LinkedIn.
 
 ### 📊 Problem solving
 
