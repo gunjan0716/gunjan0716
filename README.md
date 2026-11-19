@@ -54,6 +54,8 @@ Happy to walk through architecture, features and demos in an interview. Just rea
 
 ### 📊 Problem solving
 
+<p align="center"><img src="dsa_patterns.gif" alt="DSA patterns: Sliding Window, Two Pointers, BFS" width="420"/></p>
+
 <p align="left">
   <a href="https://leetcode.com/u/gunjan07133/"><img src="https://leetcard.jacoblin.cool/gunjan07133?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats" height="200"/></a>
 </p>
