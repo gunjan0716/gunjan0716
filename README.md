@@ -61,7 +61,10 @@ Happy to walk through architecture, features and demos. Just reach out on Linked
 
 ### 📊 Problem solving
 
-<p align="center"><img src="dsa_patterns.gif" alt="DSA patterns: Sliding Window, Two Pointers, BFS" width="420"/></p>
+<p align="center">
+  <img src="dsa_patterns.gif" alt="DSA patterns: Sliding Window, Two Pointers, BFS" width="400"/>
+  <img src="backtracking.gif" alt="Backtracking: Subsets, 4-Queens and template" width="400"/>
+</p>
 
 <p align="left">
   <a href="https://leetcode.com/u/gunjan07133/"><img src="https://leetcard.jacoblin.cool/gunjan07133?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats" height="200"/></a>
