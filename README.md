@@ -56,6 +56,7 @@ Happy to walk through architecture, features and demos. Just reach out on Linked
 - **Android Basics with Compose: Introduction to programming in Kotlin**, Google for Developers (Nov 2026)
 - **Gemini Agent Ready (GEAR)**, Google for Developers (Nov 2026)
 - **Set up Android Studio**, Google for Developers (Nov 2026)
+- **Problem Solving (Intermediate)**, HackerRank (Nov 2026) · [verify](https://www.hackerrank.com/certificates/c6e3ef1cc9bf)
 
 <a href="https://g.dev/gunjangupta07"><img src="https://img.shields.io/badge/Google%20Developer%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile"/></a>
 
