@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gunjan Gupta</h1>
+<h1 align="center">Hi 👋, I'm Gunjan Khandelwal</h1>
 <h3 align="center">Sr Flutter Developer · 5+ years building smooth, cross-platform mobile apps</h3>
 
 <p align="center">
